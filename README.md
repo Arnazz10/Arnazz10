@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Kumar Mal</h1>
-<h3 align="center">A passionate UI-UX Designer and a java developer from India . Currently learning Web Designing and MERN Stack .</h3>
+<h3 align="center">A passionate Designer and a java developer .</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/97/74/29/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnazz10&label=Profile%20views&color=0e75b6&style=flat" alt="arnazz10" /> </p>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/arnabmaal" target="blank"><img src="https://img.shields.io/twitter/follow/arnabmaal?logo=twitter&style=for-the-badge" alt="arnabmaal" /></a> </p>
 
-- 🔭 I’m currently working on *CodeClause internship project*
+- 🔭 I’m currently working on *Stealth Startup and ExIntern ai CodeClause*
 
-- 🌱 I’m currently learning *UI-UX Designing , MERN Stack*
+- 🌱 I’m currently learning *Designing and Data Structures And Algorithms*
 
 - 👨‍💻 All of my projects are available at [https://arnabmal665.wixstudio.io/portfolio](https://arnabmal665.wixstudio.io/portfolio)
 
