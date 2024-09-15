@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arnabmaal" target="blank"><img src="https://img.shields.io/twitter/follow/arnabmaal?logo=twitter&style=for-the-badge" alt="arnabmaal" /></a> </p>
 
-- 🔭 I’m currently working on *Stealth Startup and ExIntern at CodeClause*
+- 🔭 I’m currently working as a *Creative Lead In SRMIST QUANTUM COMPUTING CLUB*
 
 - 🌱 I’m currently learning *Designing and Data Structures And Algorithms*
 
