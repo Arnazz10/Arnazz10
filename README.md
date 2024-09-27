@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnab Kumar Mal</h1>
-<h3 align="center">A passionate Designer and a java developer .</h3>
+<h3 align="center">A passionate Designer and a Developer .</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/97/74/29/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnazz10&label=Profile%20views&color=0e75b6&style=flat" alt="arnazz10" /> </p>
