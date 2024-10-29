@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning *Designing and Data Structures And Algorithms*
 
-- 👨‍💻 All of my projects are available at [https://free-amazon-card-gift.my.canva.site/arnabkrmal-portfolio](https://free-amazon-card-gift.my.canva.site/arnabkrmal-portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://free-amazon-card-gift.my.canva.site/arnabkrmal-portfolio)
 
 - 💬 Ask me about *Designing ,content writing ,Graphical Presentaion , Coding etc..*
 
