@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arnabmaal" target="blank"><img src="https://img.shields.io/twitter/follow/arnabmaal?logo=twitter&style=for-the-badge" alt="arnabmaal" /></a> </p>
 
-- 🔭 I’m currently working as a *Non Tech Director In SRMIST QUANTUM COMPUTING CLUB*
+- 🔭 I’m currently working as a *DevOps Engineer*
 
 - 🌱 I’m currently learning *Designing and Data Structures And Algorithms*
 
