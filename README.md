@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/arnabmaal" target="blank"><img src="https://img.shields.io/twitter/follow/arnabmaal?logo=twitter&style=for-the-badge" alt="arnabmaal" /></a> </p>
 
-- 🔥 I’m currently working as a *BlockChain Developer*
+- 🔥 I’m currently working as a *DevOps Engineer and a BlockChain Developer*
 
 - 🌱 I’m currently learning *Designing and Data Structures And Algorithms*
 
-- 👨‍💻 All of my projects are available at this [Portfolio](https://free-amazon-card-gift.my.canva.site/arnabkrmal-portfolio)
+- 👨‍💻 All of my Design projects are available at this [Portfolio](https://www.behance.net/arnabmal)
 
 - 💬 Ask me about *Designing, content writing, Graphical Presentation, Coding, etc.*
 
 - 📧 How to reach me *arnabmal665@gmail.com*
 
-- 📝 Know about my experiences [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:8b01ca18-c94d-4a3f-930b-f9a0008e72e4)
+- 📝 Know about my experiences [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:ap:5836d282-443f-45c5-891f-2cf25b5ff7d1)
 
 - ⚡ Fun fact *I am always eager to learn new skills and gain new experiences.*
 
