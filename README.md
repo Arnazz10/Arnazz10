@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Kumar Mal</h1>
+<h1 align="center">Hi 👋, I'm Arnab Kr Mal</h1>
 <h3 align="center">A passionate Designer and an AI Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/97/74/29/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg">
 
