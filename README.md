@@ -1,7 +1,4 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-  * { font-family: 'Montserrat', sans-serif; }
-</style>
+
 
 <h1 align="center">🚀 Hey, I'm <strong>Arnab Kr Mal</strong> 👋</h1>
 <h3 align="center">A <span style="color:#ff9800;">Creative Designer</span> & <span style="color:#03a9f4;">DevOps Enthusiast</span></h3>
