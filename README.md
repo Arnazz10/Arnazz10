@@ -1,7 +1,7 @@
 
 
 <h1 align="center">🚀 Hey, I'm <strong>Arnab Kumar Mal</strong> 👋</h1>
-<h3 align="center">A <span style="color:#ff9800;">Creative Designer</span> & <span style="color:#03a9f4;">DevOps Enthusiast</span></h3>
+<h3 align="center">A <span style="color:#ff9800;">Creative Designer</span> & <span style="color:#03a9f4;">Full Stack Java Dev.</span></h3>
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/97/74/29/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg">
 
