@@ -22,7 +22,7 @@
 
 ## 🚀 About Me  
 
-- 🔥 **Currently Crushing It As:** **DevOps Engineer & Blockchain Developer**  
+- 🔥 **Currently Crushing It As:** **JAVA Full Stack Developer**  
 - 🎨 **Passionate About:** **Designing, UI/UX, and Graphical Presentations**  
 - 📚 **Currently Learning:** **Advanced Data Structures & Algorithms**  
 - 💡 **Ask Me About:** **Design, Content Creation, Coding, and Backend Dev.**  
