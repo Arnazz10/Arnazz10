@@ -25,7 +25,7 @@
 - 🔥 **Currently Crushing It As:** **DevOps Engineer & Blockchain Developer**  
 - 🎨 **Passionate About:** **Designing, UI/UX, and Graphical Presentations**  
 - 📚 **Currently Learning:** **Advanced Data Structures & Algorithms**  
-- 💡 **Ask Me About:** **Design, Content Creation, Coding, and DevOps**  
+- 💡 **Ask Me About:** **Design, Content Creation, Coding, and Backend Dev.**  
 - 🎯 **Portfolio:** [Check out my work](https://www.behance.net/arnabmal)  
 - 📩 **Let’s Connect:** **arnabmal665@gmail.com**  
 - 📜 **Resume:** [View Here](https://acrobat.adobe.com/id/urn:aaid:sc:ap:5836d282-443f-45c5-891f-2cf25b5ff7d1)  
