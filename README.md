@@ -28,7 +28,7 @@
 - 💡 **Ask Me About:** **Design, Content Creation, Coding, and Backend Dev.**  
 - 🎯 **Portfolio:** [Check out my work](https://www.behance.net/arnabmal)  
 - 📩 **Let’s Connect:** **arnabmal665@gmail.com**  
-- 📜 **Resume:** [View Here](https://acrobat.adobe.com/id/urn:aaid:sc:ap:5836d282-443f-45c5-891f-2cf25b5ff7d1)  
+- 📜 **Resume:** [View Here](https://drive.google.com/file/d/1US8NBoXmQLdYxAfMf2oJRgrXKrEM_-fi/view?usp=sharing)  
 - ⚡ **Fun Fact:** _I never stop learning new skills!_  
 
 ---
