@@ -24,7 +24,7 @@
 
 - 🔥 **Currently Crushing It As:** **JAVA Full Stack Developer**  
 - 🎨 **Passionate About:** **Designing, UI/UX, and Graphical Presentations**  
-- 📚 **Currently Learning:** **Advanced Data Structures & Algorithms**  
+- 📚 **Currently Learning:** **Backend Dev. and JAVA**  
 - 💡 **Ask Me About:** **Design, Content Creation, Coding, and Backend Dev.**  
 - 🎯 **Portfolio:** [Check out my work](https://www.behance.net/arnabmal)  
 - 📩 **Let’s Connect:** **arnabmal665@gmail.com**  
