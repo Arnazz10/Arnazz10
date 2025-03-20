@@ -117,7 +117,3 @@
 
 ---
 
-## 🛡️ Profile Visits  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Arnazz10&icon=0&color=4" alt="Profile Views">
-</p>
