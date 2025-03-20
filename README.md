@@ -80,10 +80,7 @@
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Arnazz10&show_icons=true&theme=holi" alt="GitHub Stats">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnazz10&theme=radical" alt="GitHub Streak">
-    </td>
+  
   </tr>
 </table>
 
