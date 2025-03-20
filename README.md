@@ -38,37 +38,37 @@
 ## 🛠 Tech Stack  
 
 ### 🖥️ Programming  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts" />
 </p>
 
 ### 🌐 Frontend  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=js,ts,css,react,nextjs,vue" />
 </p>
 
 ### 🎨 UI/UX & Design  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop,aftereffects,illustrator,xd,indesign" />
+
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects,illustrator,xd,indesign" />
 </p>
 
 ### 💾 Databases  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### ☕ Backend Technologies  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka" />
 </p>
 
 ### ☁️ DevOps & Cloud  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" />
 </p>
 
 ### 🛠️ Tools & Platforms  
-<p align="center">
+
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
