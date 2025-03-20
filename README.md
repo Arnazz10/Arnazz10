@@ -29,7 +29,7 @@
 - 🎯 **Portfolio:** [Check out my work](https://www.behance.net/arnabmal)  
 - 📩 **Let’s Connect:** **arnabmal665@gmail.com**  
 - 📜 **Resume:** [View Here](https://drive.google.com/file/d/1US8NBoXmQLdYxAfMf2oJRgrXKrEM_-fi/view?usp=sharing)  
-- ⚡ **Fun Fact:** _I never stop learning new skills!_  
+- ⚡ **Fun Fact:** _I never stop learning new skills , jst grinding hard enough in it!_  
 
 ---
 
