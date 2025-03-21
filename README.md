@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/PJSNyhL0/Screenshot-2025-03-22-005250.png" width="500">
+  <img src="https://i.postimg.cc/PJSNyhL0/Screenshot-2025-03-22-005250.png" width="1000">
 </p>
 
 <p align="center">
