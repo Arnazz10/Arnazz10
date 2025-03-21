@@ -23,15 +23,15 @@
 
 ---
 
-# # 🚀 About Me  
+# 🚀 About Me
+## **Currently:** *Full Stack Java Developer*
+## **Passionate About:** *UI/UX, Design & Backend Development*
+## **Currently Learning:** *Advanced Java & Microservices*
+## **Ask Me About:** *Design, Content Creation, Backend & APIs*
+## **Let's Connect:** *arnabmal665@gmail.com*
+## **Resume:** [*View Here*](https://drive.google.com/file/d/1US8NBoXmQLdYxAfMf2oJRgrXKrEM_-fi/view?usp=sharing)
+## **Fun Fact:** *I never stop learning. Always grinding to master new skills!*
 
-## 🎯 Currently: Full Stack Java Developer  
-## 🎨 Passionate About: *UI/UX, Design & Backend Development*  
-## 📚 Currently Learning: *Advanced Java & Microservices*  
-## 💡 Ask Me About: *Design, Content Creation, Backend & APIs*  
-## 📩 Let’s Connect: *arnabmal665@gmail.com*  
-## 📜 Resume: [**View Here**](https://drive.google.com/file/d/1US8NBoXmQLdYxAfMf2oJRgrXKrEM_-fi/view?usp=sharing)  
-## ⚡ Fun Fact: *I never stop learning. Always grinding to master new skills!*  
 
  
  
