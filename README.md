@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/97/74/29/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg" width="500">
+  <img src="https://i.postimg.cc/PJSNyhL0/Screenshot-2025-03-22-005250.png" width="500">
 </p>
 
 <p align="center">
