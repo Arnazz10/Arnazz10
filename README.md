@@ -40,9 +40,6 @@
 ## **📩 Let’s Connect:**  
 <span style="font-size: 16px;">✉️ *arnabmal665@gmail.com*</span>  
 
-## **📜 Resume:**  
-<span style="font-size: 16px;">📄 [**View Here**](https://drive.google.com/file/d/1US8NBoXmQLdYxAfMf2oJRgrXKrEM_-fi/view?usp=sharing)</span>  
-
 ## **⚡ Fun Fact:**  
 <span style="font-size: 16px;">✨ *I never stop learning. Always grinding to master new skills!* 🚀</span>  
 
