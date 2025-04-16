@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hey, I'm <strong>Arnab Kr. Mal</strong> 👋</h1>
 <h3 align="center">
-  A <span style="color:#ff9800;">CreativeDesigner</span> & 
+  A <span style="color:#ff9800;">Creative Designer</span> & 
   <span style="color:#03a9f4;">Full Stack Java Dev</span>
 </h3>
 
