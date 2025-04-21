@@ -29,7 +29,7 @@
 <span style="font-size: 16px;">*Full Stack Java Dev*</span>  
 
 ## **🎨 Passionate About:**  
-<span style="font-size: 16px;">*UI/UX, Design & Backend Development*</span>  
+<span style="font-size: 16px;">*UI/UX, Design & Backend Dev*</span>  
 
 ## **📚 Currently Learning:**  
 <span style="font-size: 16px;">*Advanced Java & Microservices*</span>  
