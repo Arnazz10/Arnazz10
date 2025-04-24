@@ -61,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,css,react,nextjs,vue" />
 </p>
 
-### 🎨 UI/UX & Design  
+### 🎨 UI/UX & Designing  
 
   <img src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects,illustrator,xd,indesign" />
 </p>
