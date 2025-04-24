@@ -23,7 +23,7 @@
 
 ---
 
-# 🚀 About Me  
+# 🚀 About Me.  
 
 ## **🎯 Currently:**  
 <span style="font-size: 16px;">*Full Stack Java Dev*</span>  
