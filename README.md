@@ -71,7 +71,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### ☕ Backend Tech.  
+### ☕ Backend Tech  
 
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka" />
 </p>
