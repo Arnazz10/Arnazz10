@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠 Tech Stac  
+## 🛠 Tech Stack  
 
 ### 🖥️ Programming  
 
