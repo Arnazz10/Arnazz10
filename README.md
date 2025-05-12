@@ -76,7 +76,7 @@
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,kafka" />
 </p>
 
-### ☁️ DevOps & Cloud  
+### ☁️ DevOps & Cloud.
 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure" />
 </p>
