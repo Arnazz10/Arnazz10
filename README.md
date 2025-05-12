@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats :)
 
 <table align="center">
   <tr>
