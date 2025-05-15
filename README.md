@@ -35,7 +35,7 @@
 <span style="font-size: 16px;">*Advanced Java & Microservices.*</span>  
 
 ## **💡 Ask Me About:**  
-<span style="font-size: 16px;">*Design, Content Creation, Backend & APIs*</span>  
+<span style="font-size: 16px;">*Design, Conten Creation, Backend & APIs*</span>  
 
 ## **📩 Let’s Connect:**  
 <span style="font-size: 16px;">✉️ *arnabmal665@gmail.com*</span>  
