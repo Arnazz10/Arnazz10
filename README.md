@@ -32,7 +32,7 @@
 <span style="font-size: 16px;">*UI/UX, Design & Backend Dev.*</span>  
 
 ## **📚 Currently Learning:**  
-<span style="font-size: 16px;">*Advanced Java & Microservices.*</span>  
+<span style="font-size: 16px;">*Advanced Jav & Microservices.*</span>  
 
 ## **💡 Ask Me About:**  
 <span style="font-size: 16px;">*Design, Content Creation, Backend & APIs*</span>  
