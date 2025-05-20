@@ -100,7 +100,7 @@
 
 ---
 
-## 🚀 Contributor & Language Stats :)
+## 🚀 Contributor & Language Stats 
 
 <table align="center">
   <tr>
