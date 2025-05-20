@@ -122,7 +122,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements :)  
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Arnazz10&theme=onedark" alt="GitHub Trophies" />
