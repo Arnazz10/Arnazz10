@@ -41,7 +41,7 @@
 <span style="font-size: 16px;">✉️ *arnabmal665@gmail.com*</span>  
 
 ## **⚡ Fun Fact:**  
-<span style="font-size: 16px;">✨ *I never stp quiting. Always grinding to master new skills!* 🚀</span>  
+<span style="font-size: 16px;">✨ *I never stopped though. Always grinding to master new skills!* 🚀</span>  
 
 
  
