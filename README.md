@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, Im <strong> Arnab Kr Mal</strong> </h1>
 <h3 align="center">
   A <span style="color:#ff9800;">Creative Designer.</span> & 
-  <span style="color:#03a9f4;">Full Stack Java Dev. </span>
+  <span style="color:#03a9f4;">Full Stac Java Dev. </span>
 </h3>
 
 <p align="center">
