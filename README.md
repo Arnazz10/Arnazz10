@@ -38,7 +38,7 @@
 <span style="font-size: 16px;">*Design, Content Creation, Backend & APIs*</span>  
 
 ## **📩 Let’s Connect**  
-<span style="font-size: 16px;">✉️ *arnabmal665@gmail.com*</span>  
+<span style="font-size: 16px;">✉️ *arnabmal66@gmail.com*</span>  
 
 ## **⚡ Fun Fact:**  
 <span style="font-size: 16px;">✨ *I never stopped though. Always grinding to master new skills!* 🚀</span>  
