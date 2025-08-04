@@ -16,9 +16,16 @@
 <img src="https://komarev.com/ghpvc/?username=arnazz10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
+<details>
+  <summary><strong>View System Info</strong></summary>
 
+  <pre style="background-color:#1e1e1e; color:#00ff00; padding: 1em; border-radius: 6px; font-family: 'Courier New', monospace; margin-top: 10px;">
 uname -a
-Linux arnab-dev 6.5.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 14 14:59:49 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Linux mintforge 6.5.0-14-hackstack #14-DEV SMP KAIZEN-MODE Fri Aug 04 10:00:00 UTC 2025 x86_64 fullstack green-terminal GNU/Linux
+  </pre>
+</details>
+
+
 
 <!-- Linux Mint Logo - Minimal & Centered -->
 <div align="center">
