@@ -21,7 +21,7 @@
 
   <pre style="background-color:#1e1e1e; color:#00ff00; padding: 1em; border-radius: 6px; font-family: 'Courier New', monospace; margin-top: 10px;">
 uname -a
-Linux mintforge 6.5.0-14-hackstack #14-DEV SMP KAIZEN-MODE Fri Aug 04 10:00:00 UTC 2025 x86_64 fullstack green-terminal GNU/Linux
+Linux mintforge 6.5.0-14-hackstack #14-DEV SMP KAIZEN-MODE Fri Aug 04 10:00:00 UTC 2025 x86_64 GNU/Linux
   </pre>
 </details>
 
