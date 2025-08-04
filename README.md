@@ -1,12 +1,28 @@
 <div align="center">
 
 <pre>
-███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗
-██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
-███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║
-╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║
-███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║
-╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝
+..-://+//-..
+
+.+/oooooooooooo/+
+
+/oooooooooooooooooo/
+
+/oooooooooooooooooooo/
+.oooooooooooooooooooooo.
+/oooo++/ooooo/++oooooo/
++ooooo/ /ooooo/ /ooooo+
++ooooo/ /ooooo/ /ooooo+
++ooooo/ /ooooo/ /ooooo+
++ooooo/ /ooooo/ /ooooo+
+/ooooo/ /ooooo/ /ooooo/
+.ooooo/ /ooooo/ /ooooo.
+/ooooo/ooooo/ooooo/
+/oooooooooooooooo/
+
+.+oooooooooooo+.
+
+..-:////-..
+
 </pre>
 
 <h1 align="center">Hey, I'm <strong>Arnab K Mal</strong></h1>
@@ -38,44 +54,21 @@ cat /etc/motd
 > <b>Fun Fact:</b>       Always grinding to master new skills! 🚀
 </pre>
 
-ls -R /etc/skills
-<pre>
-./skills
-├── programming
-│   └── C, C++, Java, Python, TypeScript
-├── frontend
-│   └── JavaScript, TypeScript, CSS, React, Next.js, Vue
-├── ui_ux
-│   └── Figma, Photoshop, After Effects, Illustrator, XD, InDesign
-├── databases
-│   └── MySQL, PostgreSQL, MongoDB
-├── backend
-│   └── Spring, Hibernate, Node.js, Kafka
-├── devops_cloud
-│   └── Docker, Kubernetes, AWS, GCP, Azure
-└── os_tools
-└── Git, GitHub, VSCode, Linux, Linux Mint
-</pre>
-
+🛠️ My Tech Stack & Tools
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,react,c,cpp,py,ts,js,css,nextjs,vue,figma,photoshop,aftereffects,illustrator,xd,indesign,mysql,postgres,mongodb,hibernate,nodejs,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,linux,linuxmint" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,c,cpp,py,ts,js,css,nextjs,vue,figma,photoshop,aftereffects,illustrator,xd,indesign,mysql,postgres,mongodb,hibernate,nodejs,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,linux,linuxmint" alt="Skill Icons"/>
 </p>
 
 📊 My GitHub Stats
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArnazz10%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Arnazz10&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
 <br>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArnazz10%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnazz10&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </div>
 
 🏆 GitHub Achievements
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DArnazz10%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arnazz10&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </a>
-</p>
-
-🔥 Fun Stuff
-<p align="center">
-<img src="https://www.google.com/search?q=https://readme-jokes.vercel.app/api%3Ftheme%3Ddracula" alt="Jokes Card"/>
 </p>
