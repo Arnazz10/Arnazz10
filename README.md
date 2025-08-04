@@ -32,14 +32,26 @@ Linux arnab-dev 6.5.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 14 14:59
 
 
 cat /etc/motd
-<pre>
-> <b>Currently:</b>      Full Stack Java Developer
-> <b>Passionate About:</b> UI/UX, Backend Development & System Design
-> <b>Learning:</b>       Advanced Java & Microservices
-> <b>Ask Me About:</b>   Design, Content Creation, Backend & APIs
-> <b>Contact:</b>        arnabmal665@gmail.com
-> <b>Fun Fact:</b>       Always grinding to master new skills! 🚀
+<pre style="background-color:#000000; color:#00FF00; padding:20px; border-radius:10px; font-family:monospace; font-size:14px;">
+$ whoami
+> Currently:        Full Stack Java Developer
+
+$ what-i-love
+> Passionate About: UI/UX, Backend Development & System Design
+
+$ now-learning
+> Learning:         Advanced Java & Microservices
+
+$ ask-me
+> Ask Me About:     Design, Content Creation, Backend & APIs
+
+$ contact
+> Contact:          arnabmal665@gmail.com
+
+$ fun-fact
+> Fun Fact:         Always grinding to master new skills! 🚀
 </pre>
+
 
 🛠️ My Tech Stack & Tools
 <p align="center">
