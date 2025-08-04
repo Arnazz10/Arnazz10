@@ -56,7 +56,7 @@ cat /etc/motd
 
 🛠️ My Tech Stack & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,c,cpp,py,ts,js,css,nextjs,vue,figma,photoshop,aftereffects,illustrator,xd,indesign,mysql,postgres,mongodb,hibernate,nodejs,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,linux,linuxmint" alt="Skill Icons"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,c,cpp,py,ts,js,css,nextjs,vue,figma,photoshop,illustrator,xd,indesign,mysql,postgres,mongodb,hibernate,nodejs,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,linux,linuxmint" alt="Skill Icons"/>
 </p>
 
 📊 My GitHub Stats
