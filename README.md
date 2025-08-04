@@ -26,7 +26,7 @@ Linux arnab-dev 6.5.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 14 14:59
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint Logo" width="100" style="margin-bottom: 10px;">
   </a>
 
-  <h2 style="color: #4CAF50; font-weight: bold; margin: 10px 0;">Proud Linux Mint User 🐧</h2>
+  <h2 style="color: #4CAF50; font-weight: bold; margin: 10px 0;"> I Built my own OS</h2>
   <p style="color: #90a4ae; font-style: italic;">Hacking from the green terminal ⚡</p>
 </div>
 
