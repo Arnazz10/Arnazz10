@@ -1,27 +1,16 @@
 <div align="center">
 
 <pre>
-..-://+//-..
+<!-- Linux Mint Logo Banner for GitHub README -->
 
-.+/oooooooooooo/+
+<p align="center">
+  <a href="https://linuxmint.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint Logo" width="120"/>
+  </a>
+</p>
 
-/oooooooooooooooooo/
+<h2 align="center">Proud Linux Mint User 🐧 | Hacking from the Green Terminal</h2>
 
-/oooooooooooooooooooo/
-.oooooooooooooooooooooo.
-/oooo++/ooooo/++oooooo/
-+ooooo/ /ooooo/ /ooooo+
-+ooooo/ /ooooo/ /ooooo+
-+ooooo/ /ooooo/ /ooooo+
-+ooooo/ /ooooo/ /ooooo+
-/ooooo/ /ooooo/ /ooooo/
-.ooooo/ /ooooo/ /ooooo.
-/ooooo/ooooo/ooooo/
-/oooooooooooooooo/
-
-.+oooooooooooo+.
-
-..-:////-..
 
 </pre>
 
@@ -66,9 +55,4 @@ cat /etc/motd
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnazz10&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </div>
 
-🏆 GitHub Achievements
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Arnazz10&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</a>
-</p>
+
