@@ -1,16 +1,3 @@
-<div align="center">
-
-<pre>
-<!-- Linux Mint Logo Banner for GitHub README -->
-
-<p align="center">
-  <a href="https://linuxmint.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint Logo" width="120"/>
-  </a>
-</p>
-
-<h2 align="center">Proud Linux Mint User 🐧 | Hacking from the Green Terminal</h2>
-
 
 </pre>
 
@@ -32,6 +19,22 @@
 
 uname -a
 Linux arnab-dev 6.5.0-14-generic #14-Ubuntu SMP PREEMPT_DYNAMIC Tue Nov 14 14:59:49 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+
+
+
+<div align="center">
+
+<pre>
+<!-- Linux Mint Logo Banner for GitHub README -->
+
+<p align="center">
+  <a href="https://linuxmint.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint Logo" width="120"/>
+  </a>
+</p>
+
+<h2 align="center">Proud Linux Mint User 🐧 | Hacking from the Green Terminal</h2>
+
 
 cat /etc/motd
 <pre>
