@@ -2,7 +2,7 @@
 </pre>
 
 <h1 align="center">Its here <strong> Arnab@Mint </strong></h1>
-<h3 align="center">A <span style="color:#ff9800;">Creative Designer</span> & <span style="color:#03a9f4;">Full Stack Java Developer</span></h3>
+<h3 align="center">A <span style="color:#ff9800;">Creative Designer</span> & <span style="color:#03a9f4;">and a Full Stack Developer</span></h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/arnab-mal-74454127a/">
