@@ -56,12 +56,6 @@ cat /etc/motd
 <img src="https://skillicons.dev/icons?i=java,spring,react,c,cpp,py,ts,js,css,nextjs,vue,figma,photoshop,illustrator,xd,mysql,postgres,mongodb,hibernate,nodejs,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,linux,linuxmint" alt="Skill Icons"/>
 </p>
 
-📊 My GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arnazz10&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnazz10&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</div>
 
 
