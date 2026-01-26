@@ -41,7 +41,7 @@ Linux mintforge 6.5.0-14-hackstack #14-DEV SMP KAIZEN-MODE Fri Aug 04 10:00:00 U
 cat /etc/motd
 <pre style="background-color:#1e1e1e; color:#dcdcdc; padding: 1em; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
 > <span style="color:#00FF00;">Currently</span>:        DevOps Engineer
-> <span style="color:#00FF00;">Passionate About</span>: UI/UX, Backend Development & System Design
+> <span style="color:#00FF00;">Passionate About</span>: UI/UX, Full Stack ,Backend Development & System Design
 > <span style="color:#00FF00;">Learning</span>:         Advanced Java & Microservices
 > <span style="color:#00FF00;">Ask Me About</span>:     Design, Content Creation, Backend & APIs
 > <span style="color:#00FF00;">Contact</span>:          arnabmal665@gmail.com
