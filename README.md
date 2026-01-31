@@ -1,7 +1,7 @@
  
 </pre>
 
-<h1 align="center">Its here <strong> Arnab@Mint </strong></h1>
+<h1 align="center">Its here <strong> Arnab@Archlinux </strong></h1>
 <h3 align="center">A <span style="color:#ff9800;">DevOps Engineer</span> & <span style="color:#03a9f4;">and a Full Stack Developer</span></h3>
 
 <p align="center">
