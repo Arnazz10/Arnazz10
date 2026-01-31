@@ -19,22 +19,38 @@
 <details>
   <summary><strong>View System Info</strong></summary>
 
-  <pre style="background-color:#1e1e1e; color:#00ff00; padding: 1em; border-radius: 6px; font-family: 'Courier New', monospace; margin-top: 10px;">
-uname -a
-Linux mintforge 6.5.0-14-hackstack #14-DEV SMP KAIZEN-MODE Fri Aug 04 10:00:00 UTC 2025 x86_64 GNU/Linux
+  <pre style="background-color:#0f172a; color:#38bdf8; padding: 1em; border-radius: 6px; font-family: 'JetBrains Mono', monospace; margin-top: 10px;">
+fastfetch
+
+       /\        Arch Linux
+      /  \       ---------------
+     /\   \      OS: Arch Linux x86_64
+    /      \     Kernel: 6.x.x-arch1
+   /   ,,   \    Shell: zsh
+  /   |  |  -\   DE: Hyprland
+ /_-''    ''-_\  WM: Wayland
+                CPU: Intel / AMD
+                GPU: Integrated / Discrete
+                RAM: 16GB
   </pre>
 </details>
 
 
 
-<!-- Linux Mint Logo - Minimal & Centered -->
+<!-- Arch Linux Logo -->
 <div align="center">
-  <a href="https://linuxmint.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint Logo" width="100" style="margin-bottom: 10px;">
+  <a href="https://archlinux.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" 
+         alt="Arch Linux Logo" width="100" style="margin-bottom: 10px;">
   </a>
 
-  <h2 style="color: #4CAF50; font-weight: bold; margin: 10px 0;"> I Built my own OS</h2>
-  <p style="color: #90a4ae; font-style: italic;">Hacking from the green terminal ⚡</p>
+  <h2 style="color: #1793D1; font-weight: bold; margin: 10px 0;">
+    I Built My Own Arch System
+  </h2>
+
+  <p style="color: #94a3b8; font-style: italic;">
+    Powered by Arch, Optimized by Me ⚡
+  </p>
 </div>
 
 
