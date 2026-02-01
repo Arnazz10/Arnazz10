@@ -78,6 +78,7 @@ fastfetch
 
 ##  Connect With Me
 
+-  Me: arnabkmal.in
 -  LinkedIn: https://www.linkedin.com/in/arnab-mal-74454127a/
 -  Twitter: https://twitter.com/arnabmaal
 -  Email: arnabmal665@gmail.com
