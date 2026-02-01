@@ -43,26 +43,7 @@ fastfetch
 
 ---
 
-##  Arch Linux Setup
 
-<div align="center">
-  <a href="https://archlinux.org" target="_blank">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" 
-      width="100"
-    >
-  </a>
-
-  <h3 style="color: #1793D1;">
-    I Built My Own Arch System
-  </h3>
-
-  <p>
-    Powered by Arch, Optimized by Me ⚡
-  </p>
-</div>
-
----
 
 ##  /etc/motd
 
