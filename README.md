@@ -20,7 +20,7 @@ A <span style="color:#ff9800;">DevOps Engineer</span> &
 
 ---
 
-## ⚡ #fastfetch
+##  #fastfetch
 
 <details>
   <summary><strong>View System Info</strong></summary>
@@ -43,7 +43,7 @@ fastfetch
 
 ---
 
-## 🐧 Arch Linux Setup
+##  Arch Linux Setup
 
 <div align="center">
   <a href="https://archlinux.org" target="_blank">
@@ -64,7 +64,7 @@ fastfetch
 
 ---
 
-## 📄 /etc/motd
+##  /etc/motd
 
 <pre style="background-color:#1e1e1e; color:#dcdcdc; padding: 1em; border-radius: 5px; font-family: 'Courier New', Courier, monospace;">
 > <span style="color:#00FF00;">Currently</span>: DevOps Engineer
@@ -85,7 +85,7 @@ fastfetch
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - DevOps Engineer & Full Stack Developer  
 - Strong in System Design & Scalable Architectures  
@@ -95,12 +95,12 @@ fastfetch
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/arnab-mal-74454127a/
-- 🐦 Twitter: https://twitter.com/arnabmaal
-- 📧 Email: arnabmal665@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/arnab-mal-74454127a/
+-  Twitter: https://twitter.com/arnabmaal
+-  Email: arnabmal665@gmail.com
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+ If you like my work, consider starring my repositories!
