@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 ```
 
-### `arnab@debian` — DevOps Engineer · Java Backend Dev · Linux Ner
+### `arnab@debian` — DevOps Engineer · Java Backend Dev · Linux Nerd
 
 <p>
   <a href="https://www.linkedin.com/in/arnab-mal-74454127a/">
